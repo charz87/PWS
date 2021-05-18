@@ -5,11 +5,13 @@ A mobile Game conceptualized for Mindtrick, an indie company, the development of
 
 Core Mechanics Done:
 
--Gameplay Programming
+-Gameplay Programming:
+
 1.Player Movement
 2.Enemy AI and Navmesh
 3.Animation Programming
   
--Network
+-Network:
+
 1.Unity Ads Integration
   
