@@ -6,10 +6,10 @@ A mobile Game conceptualized for Mindtrick, an indie company, the development of
 Core Mechanics Done:
 
 -Gameplay Programming
-  1.Player Movement
-  2.Enemy AI and Navmesh
-  3.Animation Programming
+1.Player Movement
+2.Enemy AI and Navmesh
+3.Animation Programming
   
 -Network
-  1. Unity Ads Integration
+1.Unity Ads Integration
   
