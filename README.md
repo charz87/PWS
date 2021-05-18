@@ -8,7 +8,9 @@ Core Mechanics Done:
 -Gameplay Programming:
 
 1.Player Movement
+
 2.Enemy AI and Navmesh
+
 3.Animation Programming
   
 -Network:
